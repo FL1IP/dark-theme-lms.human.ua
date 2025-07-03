@@ -2,8 +2,8 @@
 // @name         Dark Theme for lms.human.ua
 // @namespace    FL1IP
 // @version      0.1
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/FL1IP/dark-theme-lms.human.ua/main/dark.js
+// @downloadURL  https://raw.githubusercontent.com/FL1IP/dark-theme-lms.human.ua/main/dark.js
 // @description  Тёмная тема для сайта lms.human.ua
 // @icon         https://i.ibb.co/7tfx27mJ/humanblack.png
 // @author       FL1IP
