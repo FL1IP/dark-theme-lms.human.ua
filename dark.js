@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dark Theme for lms.human.ua
 // @namespace    https://github.com/FL1IP
-// @version      0.1
+// @version      0.2
 // @updateURL    https://raw.githubusercontent.com/FL1IP/dark-theme-lms.human.ua/main/dark.js
 // @downloadURL  https://raw.githubusercontent.com/FL1IP/dark-theme-lms.human.ua/main/dark.js
 // @homepage     https://github.com/FL1IP/dark-theme-lms.human.ua
