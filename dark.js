@@ -8,6 +8,7 @@
 // @description  Тёмная тема для сайта lms.human.ua
 // @icon         https://i.ibb.co/7tfx27mJ/humanblack.png
 // @author       FL1IP
+// @license      MIT
 // @match        https://lms.human.ua/*
 // @grant        GM_addStyle
 // ==/UserScript==
